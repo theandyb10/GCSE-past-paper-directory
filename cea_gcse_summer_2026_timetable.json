@@ -1,0 +1,182 @@
+[
+  { "board": "CEA", "subject": "Engineering & Manufacturing", "paper_code": "GEM21", "paper_title": "Engineering & Manufacturing Unit 2", "date": "Monday 04 May 2026", "session": "Morning", "duration": "3h 00m" },
+  { "board": "CEA", "subject": "Motor Vehicle & Road User Studies", "paper_code": "GMR11", "paper_title": "MV & RUS Unit 1", "date": "Monday 04 May 2026", "session": "Morning", "duration": "1h 45m" },
+
+  { "board": "CEA", "subject": "Drama", "paper_code": "G9263", "paper_title": "Drama Component 3", "date": "Tuesday 05 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Learning for Life and Work", "paper_code": "GLF11", "paper_title": "LLW Local & Global Citizenship Unit 1", "date": "Tuesday 05 May 2026", "session": "Afternoon", "duration": "1h 00m" },
+
+  { "board": "CEA", "subject": "English Language", "paper_code": "GEN11", "paper_title": "English Language Unit 1", "date": "Wednesday 06 May 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "CEA", "subject": "German", "paper_code": "GGR11", "paper_title": "German Listening Unit 1 (Foundation)", "date": "Wednesday 06 May 2026", "session": "Afternoon", "duration": "35m" },
+  { "board": "CEA", "subject": "German", "paper_code": "GGR12", "paper_title": "German Listening Unit 1 (Higher)", "date": "Wednesday 06 May 2026", "session": "Afternoon", "duration": "45m" },
+
+  { "board": "CEA", "subject": "Learning for Life and Work", "paper_code": "GLF21", "paper_title": "LLW Personal Development Unit 2", "date": "Thursday 07 May 2026", "session": "Morning", "duration": "1h 00m" },
+
+  { "board": "CEA", "subject": "Economics", "paper_code": "G9281", "paper_title": "Economics Paper 1", "date": "Friday 08 May 2026", "session": "Afternoon", "duration": "1h 45m" },
+
+  { "board": "CEA", "subject": "English Literature", "paper_code": "GEL11", "paper_title": "English Literature Unit 1", "date": "Monday 11 May 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "CEA", "subject": "Business Studies", "paper_code": "GBU11", "paper_title": "Business Studies Unit 1", "date": "Monday 11 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "CEA", "subject": "Religious Studies", "paper_code": "GRE61", "paper_title": "Religious Studies Unit 6", "date": "Tuesday 12 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Biology", "paper_code": "GBL11", "paper_title": "Biology Unit 1 (Foundation)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Biology", "paper_code": "GBL12", "paper_title": "Biology Unit 1 (Higher)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Double Award Science (Biology)", "paper_code": "GDW11", "paper_title": "DAS: Biology Unit 1 (Foundation)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Double Award Science (Biology)", "paper_code": "GDW12", "paper_title": "DAS: Biology Unit 1 (Higher)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Single Award Science (Biology)", "paper_code": "GSA11", "paper_title": "SAS: Biology Unit 1 (Foundation)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Single Award Science (Biology)", "paper_code": "GSA12", "paper_title": "SAS: Biology Unit 1 (Higher)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 00m" },
+
+  { "board": "CEA", "subject": "Geography", "paper_code": "GGY11", "paper_title": "Geography Unit 1", "date": "Wednesday 13 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "German", "paper_code": "GGR41", "paper_title": "German Writing Unit 4 (Foundation)", "date": "Wednesday 13 May 2026", "session": "Afternoon", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "German", "paper_code": "GGR42", "paper_title": "German Writing Unit 4 (Higher)", "date": "Wednesday 13 May 2026", "session": "Afternoon", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Health & Social Care", "paper_code": "GHL11", "paper_title": "Health & Social Care Unit 1", "date": "Wednesday 13 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "CEA", "subject": "Mathematics", "paper_code": "GMC11", "paper_title": "Mathematics Unit 1 (Foundation)", "date": "Thursday 14 May 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "CEA", "subject": "Mathematics", "paper_code": "GMC21", "paper_title": "Mathematics Unit 2 (Foundation)", "date": "Thursday 14 May 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "CEA", "subject": "Mathematics", "paper_code": "GMC31", "paper_title": "Mathematics Unit 3 (Higher)", "date": "Thursday 14 May 2026", "session": "Morning", "duration": "2h 00m" },
+  { "board": "CEA", "subject": "Mathematics", "paper_code": "GMC41", "paper_title": "Mathematics Unit 4 (Higher)", "date": "Thursday 14 May 2026", "session": "Morning", "duration": "2h 00m" },
+  { "board": "CEA", "subject": "Irish", "paper_code": "GIH11", "paper_title": "Irish Listening Unit 1 (Foundation)", "date": "Thursday 14 May 2026", "session": "Afternoon", "duration": "35m" },
+  { "board": "CEA", "subject": "Irish", "paper_code": "GIH12", "paper_title": "Irish Listening Unit 1 (Higher)", "date": "Thursday 14 May 2026", "session": "Afternoon", "duration": "45m" },
+  { "board": "CEA", "subject": "Leisure, Travel & Tourism", "paper_code": "GLE11", "paper_title": "Leisure, Travel & Tourism Unit 1", "date": "Thursday 14 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "CEA", "subject": "History", "paper_code": "GHR11", "paper_title": "History Unit 1", "date": "Friday 15 May 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "CEA", "subject": "Further Mathematics", "paper_code": "GFM11", "paper_title": "Further Maths Unit 1", "date": "Friday 15 May 2026", "session": "Afternoon", "duration": "2h 00m" },
+
+  { "board": "CEA", "subject": "Chemistry", "paper_code": "GCM11", "paper_title": "Chemistry Unit 1 (Foundation)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Chemistry", "paper_code": "GCM12", "paper_title": "Chemistry Unit 1 (Higher)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Double Award Science (Chemistry)", "paper_code": "GDW21", "paper_title": "DAS: Chemistry Unit 1 (Foundation)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Double Award Science (Chemistry)", "paper_code": "GDW22", "paper_title": "DAS: Chemistry Unit 1 (Higher)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Single Award Science", "paper_code": "GSA21", "paper_title": "SAS: Chemistry Unit 2 (Foundation)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Single Award Science", "paper_code": "GSA22", "paper_title": "SAS: Chemistry Unit 2 (Higher)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Digital Technology", "paper_code": "GDG11", "paper_title": "Digital Technology Unit 1", "date": "Monday 18 May 2026", "session": "Afternoon", "duration": "1h 00m" },
+
+  { "board": "CEA", "subject": "Food & Nutrition", "paper_code": "G9521", "paper_title": "Food & Nutrition Paper 1", "date": "Tuesday 19 May 2026", "session": "Morning", "duration": "2h 00m" },
+  { "board": "CEA", "subject": "Hospitality", "paper_code": "GPT11", "paper_title": "Hospitality Unit 1", "date": "Tuesday 19 May 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Learning for Life and Work", "paper_code": "GLF31", "paper_title": "LLW Employability Unit 3", "date": "Tuesday 19 May 2026", "session": "Afternoon", "duration": "1h 00m" },
+
+  { "board": "CEA", "subject": "Religious Studies", "paper_code": "GRE31", "paper_title": "Religious Studies Unit 3", "date": "Wednesday 20 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Religious Studies", "paper_code": "GRE41", "paper_title": "Religious Studies Unit 4", "date": "Wednesday 20 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Religious Studies", "paper_code": "GRE51", "paper_title": "Religious Studies Unit 5", "date": "Wednesday 20 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "French", "paper_code": "GFC11", "paper_title": "French Listening Unit 1 (Foundation)", "date": "Wednesday 20 May 2026", "session": "Afternoon", "duration": "35m" },
+  { "board": "CEA", "subject": "French", "paper_code": "GFC12", "paper_title": "French Listening Unit 1 (Higher)", "date": "Wednesday 20 May 2026", "session": "Afternoon", "duration": "45m" },
+
+  { "board": "CEA", "subject": "English Language", "paper_code": "GEN41", "paper_title": "English Language Unit 4", "date": "Thursday 21 May 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "CEA", "subject": "Business Studies", "paper_code": "GBU21", "paper_title": "Business Studies Unit 2", "date": "Thursday 21 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "CEA", "subject": "Double Award Science (Physics)", "paper_code": "GDW31", "paper_title": "DAS: Physics Unit 1 (Foundation)", "date": "Friday 22 May 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Double Award Science (Physics)", "paper_code": "GDW32", "paper_title": "DAS: Physics Unit 1 (Higher)", "date": "Friday 22 May 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Physics", "paper_code": "GPY11", "paper_title": "Physics Unit 1 (Foundation)", "date": "Friday 22 May 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Physics", "paper_code": "GPY12", "paper_title": "Physics Unit 1 (Higher)", "date": "Friday 22 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Single Award Science (Physics)", "paper_code": "GSA31", "paper_title": "SAS: Physics Unit 3 (Foundation)", "date": "Friday 22 May 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Single Award Science (Physics)", "paper_code": "GSA32", "paper_title": "SAS: Physics Unit 3 (Higher)", "date": "Friday 22 May 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Spanish", "paper_code": "GSH11", "paper_title": "Spanish Listening Unit 1 (Foundation)", "date": "Friday 22 May 2026", "session": "Afternoon", "duration": "35m" },
+  { "board": "CEA", "subject": "Spanish", "paper_code": "GSH12", "paper_title": "Spanish Listening Unit 1 (Higher)", "date": "Friday 22 May 2026", "session": "Afternoon", "duration": "45m" },
+
+  { "board": "CEA", "subject": "Geography", "paper_code": "GGY21", "paper_title": "Geography Unit 2", "date": "Monday 25 May 2026", "session": "Morning", "duration": "1h 30m" },
+
+  { "board": "CEA", "subject": "Physical Education", "paper_code": "G9771", "paper_title": "P.E. Paper 1 (Health & Performance)", "date": "Tuesday 26 May 2026", "session": "Afternoon", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Economics", "paper_code": "G9282", "paper_title": "Economics Paper 2", "date": "Tuesday 26 May 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Moving Image Arts", "paper_code": "G9531", "paper_title": "Moving Image Arts Component 1", "date": "Tuesday 26 May 2026", "session": "Morning", "duration": "1h 30m" },
+
+  { "board": "CEA", "subject": "Agriculture & Land Use", "paper_code": "GAU11", "paper_title": "Agriculture & Land Use Unit 1", "date": "Wednesday 27 May 2026", "session": "Afternoon", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Irish", "paper_code": "GIH41", "paper_title": "Irish Writing Unit 4 (Foundation)", "date": "Wednesday 27 May 2026", "session": "Afternoon", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Irish", "paper_code": "GIH42", "paper_title": "Irish Writing Unit 4 (Higher)", "date": "Wednesday 27 May 2026", "session": "Afternoon", "duration": "1h 15m" },
+
+  { "board": "CEA", "subject": "English Literature", "paper_code": "GEL21", "paper_title": "English Literature Unit 2 (Drama/Poetry)", "date": "Thursday 28 May 2026", "session": "Morning", "duration": "2h 00m" },
+  { "board": "CEA", "subject": "Technology & Design", "paper_code": "GTY11", "paper_title": "Technology & Design Unit 1", "date": "Thursday 28 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Religious Studies", "paper_code": "GRE11", "paper_title": "Religious Studies Unit 1", "date": "Friday 29 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Religious Studies", "paper_code": "GRE21", "paper_title": "Religious Studies Unit 2 (Option A)", "date": "Friday 29 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Religious Studies", "paper_code": "GRE22", "paper_title": "Religious Studies Unit 2 (Option B)", "date": "Friday 29 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Spanish", "paper_code": "GSH41", "paper_title": "Spanish Writing Unit 4 (Foundation)", "date": "Friday 29 May 2026", "session": "Afternoon", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Spanish", "paper_code": "GSH42", "paper_title": "Spanish Writing Unit 4 (Higher)", "date": "Friday 29 May 2026", "session": "Afternoon", "duration": "1h 15m" },
+
+  { "board": "CEA", "subject": "Child Development", "paper_code": "GCD11", "paper_title": "Child Development Unit 1", "date": "Monday 01 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Engineering & Manufacturing", "paper_code": "GEM31", "paper_title": "Engineering & Manufacturing Unit 3", "date": "Monday 01 June 2026", "session": "Morning", "duration": "2h 00m" },
+  { "board": "CEA", "subject": "Further Mathematics", "paper_code": "GFM21", "paper_title": "Further Maths Unit 2", "date": "Monday 01 June 2026", "session": "Afternoon", "duration": "1h 00m" },
+
+  { "board": "CEA", "subject": "Digital Technology", "paper_code": "GDG21", "paper_title": "Digital Technology Unit 2", "date": "Tuesday 02 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Digital Technology", "paper_code": "GDG41", "paper_title": "Digital Technology Unit 4", "date": "Tuesday 02 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "German", "paper_code": "GGR31", "paper_title": "German Reading Unit 3 (Foundation)", "date": "Tuesday 02 June 2026", "session": "Afternoon", "duration": "50m" },
+  { "board": "CEA", "subject": "German", "paper_code": "GGR32", "paper_title": "German Reading Unit 3 (Higher)", "date": "Tuesday 02 June 2026", "session": "Afternoon", "duration": "1h 00m" },
+
+  { "board": "CEA", "subject": "Mathematics", "paper_code": "GMC51", "paper_title": "Mathematics Unit 5 Non-Calculator (Foundation)", "date": "Wednesday 03 June 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Mathematics", "paper_code": "GMC52", "paper_title": "Mathematics Unit 5 Calculator (Foundation)", "date": "Wednesday 03 June 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Mathematics", "paper_code": "GMC61", "paper_title": "Mathematics Unit 6 Non-Calculator (Foundation)", "date": "Wednesday 03 June 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Mathematics", "paper_code": "GMC62", "paper_title": "Mathematics Unit 6 Calculator (Foundation)", "date": "Wednesday 03 June 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Mathematics", "paper_code": "GMC71", "paper_title": "Mathematics Unit 7 Non-Calculator (Higher)", "date": "Wednesday 03 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Mathematics", "paper_code": "GMC72", "paper_title": "Mathematics Unit 7 Calculator (Higher)", "date": "Wednesday 03 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Mathematics", "paper_code": "GMC81", "paper_title": "Mathematics Unit 8 Non-Calculator (Higher)", "date": "Wednesday 03 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Mathematics", "paper_code": "GMC82", "paper_title": "Mathematics Unit 8 Calculator (Higher)", "date": "Wednesday 03 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Construction & Built Environment", "paper_code": "GCN11", "paper_title": "Construction & BE Unit 1", "date": "Wednesday 03 June 2026", "session": "Afternoon", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Religious Studies", "paper_code": "GRE71", "paper_title": "Religious Studies Unit 7", "date": "Wednesday 03 June 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "CEA", "subject": "History", "paper_code": "GHR21", "paper_title": "History Unit 2", "date": "Thursday 04 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "French", "paper_code": "GFC41", "paper_title": "French Writing Unit 4 (Foundation)", "date": "Thursday 04 June 2026", "session": "Afternoon", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "French", "paper_code": "GFC42", "paper_title": "French Writing Unit 4 (Higher)", "date": "Thursday 04 June 2026", "session": "Afternoon", "duration": "1h 15m" },
+
+  { "board": "CEA", "subject": "Physical Education", "paper_code": "G9772", "paper_title": "P.E. Paper 2 (Performance)", "date": "Friday 05 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Government & Politics", "paper_code": "GGP11", "paper_title": "Government & Politics Unit 1", "date": "Friday 05 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Geography", "paper_code": "GGY31", "paper_title": "Geography Unit 3", "date": "Friday 05 June 2026", "session": "Afternoon", "duration": "1h 00m" },
+
+  { "board": "CEA", "subject": "Biology", "paper_code": "GBL21", "paper_title": "Biology Unit 2 (Foundation)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Biology", "paper_code": "GBL22", "paper_title": "Biology Unit 2 (Higher)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Double Award Science (Biology)", "paper_code": "GDW41", "paper_title": "DAS: Biology Unit 2 (Foundation)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Double Award Science (Biology)", "paper_code": "GDW42", "paper_title": "DAS: Biology Unit 2 (Higher)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Double Award Science (Biology)", "paper_code": "GDW72", "paper_title": "DAS: Biology Practical Theory (Foundation)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "30m" },
+  { "board": "CEA", "subject": "Double Award Science (Biology)", "paper_code": "GDW76", "paper_title": "DAS: Biology Practical Theory (Higher)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "30m" },
+  { "board": "CEA", "subject": "Single Award Science", "paper_code": "GSA42", "paper_title": "SAS: Unit 4 Practical Theory (Foundation)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Single Award Science", "paper_code": "GSA44", "paper_title": "SAS: Unit 4 Practical Theory (Higher)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Gaeilge", "paper_code": "G9574", "paper_title": "Gaeilge Reading", "date": "Monday 08 June 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Hospitality", "paper_code": "GPT21", "paper_title": "Hospitality Unit 2", "date": "Monday 08 June 2026", "session": "Afternoon", "duration": "1h 00m" },
+
+  { "board": "CEA", "subject": "Spanish", "paper_code": "GSH31", "paper_title": "Spanish Reading Unit 3 (Foundation)", "date": "Tuesday 09 June 2026", "session": "Morning", "duration": "50m" },
+  { "board": "CEA", "subject": "Spanish", "paper_code": "GSH32", "paper_title": "Spanish Reading Unit 3 (Higher)", "date": "Tuesday 09 June 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Child Development", "paper_code": "GCD21", "paper_title": "Child Development Unit 2", "date": "Tuesday 09 June 2026", "session": "Afternoon", "duration": "1h 15m" },
+
+  { "board": "CEA", "subject": "Music", "paper_code": "G9713", "paper_title": "Music Component 3", "date": "Wednesday 10 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Leisure, Travel & Tourism", "paper_code": "GLE21", "paper_title": "Leisure, Travel & Tourism Unit 2", "date": "Wednesday 10 June 2026", "session": "Morning", "duration": "1h 30m" },
+
+  { "board": "CEA", "subject": "Religious Studies", "paper_code": "GRE81", "paper_title": "Religious Studies Unit 8", "date": "Thursday 11 June 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Technology & Design", "paper_code": "GTY21", "paper_title": "Technology & Design Unit 2 Option A", "date": "Thursday 11 June 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Technology & Design", "paper_code": "GTY22", "paper_title": "Technology & Design Unit 2 Option B", "date": "Thursday 11 June 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Technology & Design", "paper_code": "GTY23", "paper_title": "Technology & Design Unit 2 Option C", "date": "Thursday 11 June 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Construction & Built Environment", "paper_code": "GCN21", "paper_title": "Construction & BE Unit 2", "date": "Thursday 11 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Government & Politics", "paper_code": "GGP21", "paper_title": "Government & Politics Unit 2", "date": "Thursday 11 June 2026", "session": "Morning", "duration": "1h 30m" },
+
+  { "board": "CEA", "subject": "French", "paper_code": "GFC31", "paper_title": "French Reading Unit 3 (Foundation)", "date": "Friday 12 June 2026", "session": "Afternoon", "duration": "50m" },
+  { "board": "CEA", "subject": "French", "paper_code": "GFC32", "paper_title": "French Reading Unit 3 (Higher)", "date": "Friday 12 June 2026", "session": "Afternoon", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Chemistry", "paper_code": "GCM21", "paper_title": "Chemistry Unit 2 (Foundation)", "date": "Friday 12 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Chemistry", "paper_code": "GCM22", "paper_title": "Chemistry Unit 2 (Higher)", "date": "Friday 12 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Double Award Science (Chemistry)", "paper_code": "GDW51", "paper_title": "DAS: Chemistry Unit 2 (Foundation)", "date": "Friday 12 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Double Award Science (Chemistry)", "paper_code": "GDW52", "paper_title": "DAS: Chemistry Unit 2 (Higher)", "date": "Friday 12 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Double Award Science (Chemistry)", "paper_code": "GDW73", "paper_title": "DAS: Chemistry Practical Theory (Foundation)", "date": "Friday 12 June 2026", "session": "Morning", "duration": "30m" },
+  { "board": "CEA", "subject": "Double Award Science (Chemistry)", "paper_code": "GDW77", "paper_title": "DAS: Chemistry Practical Theory (Higher)", "date": "Friday 12 June 2026", "session": "Morning", "duration": "30m" },
+  { "board": "CEA", "subject": "Statistics", "paper_code": "GST11", "paper_title": "Statistics Unit 1 (Foundation)", "date": "Friday 12 June 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Statistics", "paper_code": "GST12", "paper_title": "Statistics Unit 1 (Higher)", "date": "Friday 12 June 2026", "session": "Afternoon", "duration": "2h 00m" },
+
+  { "board": "CEA", "subject": "Double Award Science (Physics)", "paper_code": "GDW61", "paper_title": "DAS: Physics Unit 2 (Foundation)", "date": "Monday 15 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Double Award Science (Physics)", "paper_code": "GDW62", "paper_title": "DAS: Physics Unit 2 (Higher)", "date": "Monday 15 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Double Award Science (Physics)", "paper_code": "GDW74", "paper_title": "DAS: Physics Practical Theory (Foundation)", "date": "Monday 15 June 2026", "session": "Morning", "duration": "30m" },
+  { "board": "CEA", "subject": "Double Award Science (Physics)", "paper_code": "GDW78", "paper_title": "DAS: Physics Practical Theory (Higher)", "date": "Monday 15 June 2026", "session": "Morning", "duration": "30m" },
+  { "board": "CEA", "subject": "Physics", "paper_code": "GPY21", "paper_title": "Physics Unit 2 (Foundation)", "date": "Monday 15 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Physics", "paper_code": "GPY22", "paper_title": "Physics Unit 2 (Higher)", "date": "Monday 15 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Further Mathematics", "paper_code": "GFM31", "paper_title": "Further Maths Unit 3", "date": "Monday 15 June 2026", "session": "Morning", "duration": "1h 00m" },
+
+  { "board": "CEA", "subject": "Business & Communication Systems", "paper_code": "GSY21", "paper_title": "Business & Communication Systems Unit 2", "date": "Tuesday 16 June 2026", "session": "Afternoon", "duration": "1h 00m" },
+
+  { "board": "CEA", "subject": "Gaeilge", "paper_code": "G9575", "paper_title": "Gaeilge Writing", "date": "Wednesday 17 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Agriculture & Land Use", "paper_code": "GAU21", "paper_title": "Agriculture & Land Use Unit 2", "date": "Wednesday 17 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "CEA", "subject": "Biology", "paper_code": "GBL32", "paper_title": "Biology Unit 3 Practical Theory (Foundation)", "date": "Wednesday 17 June 2026", "session": "Afternoon", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Biology", "paper_code": "GBL34", "paper_title": "Biology Unit 3 Practical Theory (Higher)", "date": "Wednesday 17 June 2026", "session": "Afternoon", "duration": "1h 00m" },
+
+  { "board": "CEA", "subject": "Statistics", "paper_code": "GST21", "paper_title": "Statistics Unit 2 (Foundation)", "date": "Thursday 18 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "CEA", "subject": "Statistics", "paper_code": "GST22", "paper_title": "Statistics Unit 2 (Higher)", "date": "Thursday 18 June 2026", "session": "Morning", "duration": "2h 00m" },
+  { "board": "CEA", "subject": "Irish", "paper_code": "GIH31", "paper_title": "Irish Reading Unit 3 (Foundation)", "date": "Thursday 18 June 2026", "session": "Afternoon", "duration": "50m" },
+  { "board": "CEA", "subject": "Irish", "paper_code": "GIH32", "paper_title": "Irish Reading Unit 3 (Higher)", "date": "Thursday 18 June 2026", "session": "Afternoon", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Religious Studies", "paper_code": "GRE91", "paper_title": "Religious Studies Unit 9", "date": "Thursday 18 June 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "CEA", "subject": "Further Mathematics", "paper_code": "GFM41", "paper_title": "Further Maths Unit 4", "date": "Friday 19 June 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Chemistry", "paper_code": "GCM32", "paper_title": "Chemistry Unit 3 Practical Theory (Foundation)", "date": "Friday 19 June 2026", "session": "Afternoon", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Chemistry", "paper_code": "GCM34", "paper_title": "Chemistry Unit 3 Practical Theory (Higher)", "date": "Friday 19 June 2026", "session": "Afternoon", "duration": "1h 00m" },
+
+  { "board": "CEA", "subject": "Physics", "paper_code": "GPY32", "paper_title": "Physics Unit 3 Practical Theory (Foundation)", "date": "Monday 22 June 2026", "session": "Morning", "duration": "1h 00m" },
+  { "board": "CEA", "subject": "Physics", "paper_code": "GPY34", "paper_title": "Physics Unit 3 Practical Theory (Higher)", "date": "Monday 22 June 2026", "session": "Morning", "duration": "1h 15m" }
+]

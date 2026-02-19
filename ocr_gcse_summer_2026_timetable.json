@@ -1,0 +1,155 @@
+[
+  { "board": "OCR", "subject": "Psychology", "paper_code": "J203/01", "paper_title": "Psychology: Studies and applications in psychology 1", "date": "Thursday 07 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Citizenship Studies", "paper_code": "J270/01", "paper_title": "Citizenship Studies: Citizenship in perspective", "date": "Thursday 07 May 2026", "session": "Afternoon", "duration": "50m" },
+  { "board": "OCR", "subject": "Latin", "paper_code": "J282/01", "paper_title": "Latin: Language", "date": "Friday 08 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Sport Studies (Cambridge National)", "paper_code": "R184", "paper_title": "Sport Studies: Contemporary issues in sport", "date": "Friday 08 May 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "OCR", "subject": "Drama", "paper_code": "J316/04", "paper_title": "Drama: Drama: Performance and response", "date": "Friday 08 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Economics", "paper_code": "J205/01", "paper_title": "Economics: Introduction to economics", "date": "Friday 08 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "OCR", "subject": "English Literature", "paper_code": "J352/01", "paper_title": "English Literature: Exploring modern and literary heritage texts", "date": "Monday 11 May 2026", "session": "Morning", "duration": "2h" },
+  { "board": "OCR", "subject": "Business", "paper_code": "J204/01", "paper_title": "Business: Business 1 – business activity, marketing and people", "date": "Monday 11 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Classical Greek", "paper_code": "J292/01", "paper_title": "Classical Greek: Language", "date": "Monday 11 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "OCR", "subject": "Engineering Design (Cambridge National)", "paper_code": "R038", "paper_title": "Engineering Design: Principles of engineering design", "date": "Tuesday 12 May 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "OCR", "subject": "Religious Studies", "paper_code": "J625/01", "paper_title": "Religious Studies: Christianity beliefs and teachings & practices", "date": "Tuesday 12 May 2026", "session": "Morning", "duration": "1h" },
+  { "board": "OCR", "subject": "Religious Studies", "paper_code": "J625/02", "paper_title": "Religious Studies: Islam beliefs and teachings & practices", "date": "Tuesday 12 May 2026", "session": "Morning", "duration": "1h" },
+  { "board": "OCR", "subject": "Religious Studies", "paper_code": "J625/03", "paper_title": "Religious Studies: Judaism beliefs and teachings & practices", "date": "Tuesday 12 May 2026", "session": "Morning", "duration": "1h" },
+  { "board": "OCR", "subject": "Religious Studies", "paper_code": "J625/04", "paper_title": "Religious Studies: Buddhism beliefs and teachings & practices", "date": "Tuesday 12 May 2026", "session": "Morning", "duration": "1h" },
+  { "board": "OCR", "subject": "Religious Studies", "paper_code": "J625/05", "paper_title": "Religious Studies: Hinduism beliefs and teachings & practices", "date": "Tuesday 12 May 2026", "session": "Morning", "duration": "1h" },
+  { "board": "OCR", "subject": "Religious Studies (Short Course)", "paper_code": "J125/01", "paper_title": "Religious Studies (Short Course): Religion, philosophy and ethics in the modern world", "date": "Tuesday 12 May 2026", "session": "Morning", "duration": "2h" },
+
+  { "board": "OCR", "subject": "Biology A", "paper_code": "J247/01", "paper_title": "Biology A: Paper 1 (Foundation tier)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Biology A", "paper_code": "J247/03", "paper_title": "Biology A: Paper 3 (Higher tier)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Biology B", "paper_code": "J257/01", "paper_title": "Biology B: Breadth in biology (Foundation)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Biology B", "paper_code": "J257/03", "paper_title": "Biology B: Breadth in biology (Higher)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Combined Science A", "paper_code": "J250/01", "paper_title": "Combined Science A: Paper 1 (Biology) (Foundation)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 10m" },
+  { "board": "OCR", "subject": "Combined Science A", "paper_code": "J250/07", "paper_title": "Combined Science A: Paper 7 (Biology) (Higher)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 10m" },
+  { "board": "OCR", "subject": "Combined Science B", "paper_code": "J260/01", "paper_title": "Combined Science B: Biology (Foundation)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Combined Science B", "paper_code": "J260/05", "paper_title": "Combined Science B: Biology (Higher)", "date": "Tuesday 12 May 2026", "session": "Afternoon", "duration": "1h 45m" },
+
+  { "board": "OCR", "subject": "Geography A (Geographical Themes)", "paper_code": "J383/01", "paper_title": "Geography A: Living in the UK today", "date": "Wednesday 13 May 2026", "session": "Morning", "duration": "1h" },
+  { "board": "OCR", "subject": "Geography B (Geography for Enquiring Minds)", "paper_code": "J384/01", "paper_title": "Geography B: Our natural world", "date": "Wednesday 13 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Computer Science", "paper_code": "J277/01", "paper_title": "Computer Science: Computer systems", "date": "Wednesday 13 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "OCR", "subject": "Mathematics", "paper_code": "J560/01", "paper_title": "Mathematics: Paper 1 (Foundation – calculator)", "date": "Thursday 14 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Mathematics", "paper_code": "J560/04", "paper_title": "Mathematics: Paper 4 (Higher – calculator)", "date": "Thursday 14 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Ancient History", "paper_code": "J198/01", "paper_title": "Ancient History: Greece and Persia", "date": "Thursday 14 May 2026", "session": "Afternoon", "duration": "2h" },
+  { "board": "OCR", "subject": "Citizenship Studies", "paper_code": "J270/02", "paper_title": "Citizenship Studies: Citizenship in action", "date": "Thursday 14 May 2026", "session": "Afternoon", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Psychology", "paper_code": "J203/02", "paper_title": "Psychology: Studies and applications in psychology 2", "date": "Thursday 14 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "OCR", "subject": "History A (Explaining the Modern World)", "paper_code": "J410/01-07", "paper_title": "History A: Period study with non-British depth study", "date": "Friday 15 May 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "History B (Schools History Project)", "paper_code": "J411/21", "paper_title": "History B: History around us", "date": "Friday 15 May 2026", "session": "Morning", "duration": "1h" },
+  { "board": "OCR", "subject": "IT (Cambridge National)", "paper_code": "R050", "paper_title": "IT: IT in the digital world", "date": "Friday 15 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Latin", "paper_code": "J282/02", "paper_title": "Latin: Prose literature A", "date": "Friday 15 May 2026", "session": "Afternoon", "duration": "1h" },
+  { "board": "OCR", "subject": "Latin", "paper_code": "J282/03", "paper_title": "Latin: Prose literature B", "date": "Friday 15 May 2026", "session": "Afternoon", "duration": "1h" },
+
+  { "board": "OCR", "subject": "Chemistry A", "paper_code": "J248/01", "paper_title": "Chemistry A: Paper 1 (Foundation tier)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Chemistry A", "paper_code": "J248/03", "paper_title": "Chemistry A: Paper 3 (Higher tier)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Chemistry B", "paper_code": "J258/01", "paper_title": "Chemistry B: Breadth in chemistry (Foundation)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Chemistry B", "paper_code": "J258/03", "paper_title": "Chemistry B: Breadth in chemistry (Higher)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Combined Science A", "paper_code": "J250/03", "paper_title": "Combined Science A: Paper 3 (Chemistry) (Foundation)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 10m" },
+  { "board": "OCR", "subject": "Combined Science A", "paper_code": "J250/09", "paper_title": "Combined Science A: Paper 9 (Chemistry) (Higher)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 10m" },
+  { "board": "OCR", "subject": "Combined Science B", "paper_code": "J260/02", "paper_title": "Combined Science B: Chemistry (Foundation)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Combined Science B", "paper_code": "J260/06", "paper_title": "Combined Science B: Chemistry (Higher)", "date": "Monday 18 May 2026", "session": "Morning", "duration": "1h 45m" },
+
+  { "board": "OCR", "subject": "Media Studies", "paper_code": "J200/01", "paper_title": "Media Studies: Television and promoting media", "date": "Monday 18 May 2026", "session": "Afternoon", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Sport Science (Cambridge National)", "paper_code": "R180", "paper_title": "Sport Science: Reducing the risk of sports injuries and dealing with common medical conditions", "date": "Monday 18 May 2026", "session": "Afternoon", "duration": "1h 15m" },
+
+  { "board": "OCR", "subject": "English Literature", "paper_code": "J352/02", "paper_title": "English Literature: Exploring poetry and Shakespeare", "date": "Tuesday 19 May 2026", "session": "Morning", "duration": "2h" },
+  { "board": "OCR", "subject": "Child Development (Cambridge National)", "paper_code": "R057", "paper_title": "Child Development: Health and well-being for child development", "date": "Tuesday 19 May 2026", "session": "Afternoon", "duration": "1h 15m" },
+  { "board": "OCR", "subject": "Classical Civilisation", "paper_code": "J199/11", "paper_title": "Classical Civilisation: Myth and religion", "date": "Tuesday 19 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Classical Civilisation", "paper_code": "J199/12", "paper_title": "Classical Civilisation: Women in the ancient world", "date": "Tuesday 19 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Computer Science", "paper_code": "J277/02", "paper_title": "Computer Science: Computational thinking, algorithms and programming", "date": "Tuesday 19 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "OCR", "subject": "Enterprise and Marketing (Cambridge National)", "paper_code": "R067", "paper_title": "Enterprise and Marketing: Enterprise and marketing concepts", "date": "Wednesday 20 May 2026", "session": "Afternoon", "duration": "1h 15m" },
+  { "board": "OCR", "subject": "Religious Studies", "paper_code": "J625/06", "paper_title": "Religious Studies: Religion, philosophy and ethics – Christian perspective", "date": "Wednesday 20 May 2026", "session": "Afternoon", "duration": "2h" },
+  { "board": "OCR", "subject": "Religious Studies", "paper_code": "J625/07", "paper_title": "Religious Studies: Religion, philosophy and ethics – Muslim perspective", "date": "Wednesday 20 May 2026", "session": "Afternoon", "duration": "2h" },
+  { "board": "OCR", "subject": "Religious Studies", "paper_code": "J625/08", "paper_title": "Religious Studies: Religion, philosophy and ethics – Jewish perspective", "date": "Wednesday 20 May 2026", "session": "Afternoon", "duration": "2h" },
+  { "board": "OCR", "subject": "Religious Studies", "paper_code": "J625/09", "paper_title": "Religious Studies: Religion, philosophy and ethics – Buddhist perspective", "date": "Wednesday 20 May 2026", "session": "Afternoon", "duration": "2h" },
+  { "board": "OCR", "subject": "Religious Studies", "paper_code": "J625/10", "paper_title": "Religious Studies: Religion, philosophy and ethics – Hindu perspective", "date": "Wednesday 20 May 2026", "session": "Afternoon", "duration": "2h" },
+
+  { "board": "OCR", "subject": "English Language", "paper_code": "J351/01", "paper_title": "English Language: Communicating information and ideas", "date": "Thursday 21 May 2026", "session": "Morning", "duration": "2h" },
+  { "board": "OCR", "subject": "Business", "paper_code": "J204/02", "paper_title": "Business: Business 2 – operations, finance and influences on business", "date": "Thursday 21 May 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "OCR", "subject": "Ancient History", "paper_code": "J198/02", "paper_title": "Ancient History: Rome and its neighbours", "date": "Friday 22 May 2026", "session": "Morning", "duration": "2h" },
+  { "board": "OCR", "subject": "Economics", "paper_code": "J205/02", "paper_title": "Economics: National and international economics", "date": "Friday 22 May 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Physical Education", "paper_code": "J587/01", "paper_title": "Physical Education: Physical factors affecting performance", "date": "Friday 22 May 2026", "session": "Morning", "duration": "1h" },
+  { "board": "OCR", "subject": "Classical Greek", "paper_code": "J292/02", "paper_title": "Classical Greek: Prose literature A", "date": "Friday 22 May 2026", "session": "Afternoon", "duration": "1h" },
+  { "board": "OCR", "subject": "Classical Greek", "paper_code": "J292/03", "paper_title": "Classical Greek: Prose literature B", "date": "Friday 22 May 2026", "session": "Afternoon", "duration": "1h" },
+
+  { "board": "OCR", "subject": "Citizenship Studies", "paper_code": "J270/03", "paper_title": "Citizenship Studies: Our rights, our society, our world", "date": "Monday 01 June 2026", "session": "Morning", "duration": "1h" },
+  { "board": "OCR", "subject": "Classical Civilisation", "paper_code": "J199/21", "paper_title": "Classical Civilisation: The Homeric world", "date": "Monday 01 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Classical Civilisation", "paper_code": "J199/22", "paper_title": "Classical Civilisation: Roman city life", "date": "Monday 01 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Classical Civilisation", "paper_code": "J199/23", "paper_title": "Classical Civilisation: War and warfare", "date": "Monday 01 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Engineering Manufacture (Cambridge National)", "paper_code": "R014", "paper_title": "Engineering Manufacture: Principles of engineering manufacture", "date": "Monday 01 June 2026", "session": "Morning", "duration": "1h 15m" },
+  { "board": "OCR", "subject": "Physical Education", "paper_code": "J587/02", "paper_title": "Physical Education: Socio-cultural issues and sports psychology", "date": "Monday 01 June 2026", "session": "Morning", "duration": "1h" },
+
+  { "board": "OCR", "subject": "Classical Greek", "paper_code": "J292/04", "paper_title": "Classical Greek: Verse literature A", "date": "Monday 01 June 2026", "session": "Afternoon", "duration": "1h" },
+  { "board": "OCR", "subject": "Classical Greek", "paper_code": "J292/05", "paper_title": "Classical Greek: Verse literature B", "date": "Monday 01 June 2026", "session": "Afternoon", "duration": "1h" },
+
+  { "board": "OCR", "subject": "Combined Science A", "paper_code": "J250/05", "paper_title": "Combined Science A: Paper 5 (Physics) (Foundation)", "date": "Tuesday 02 June 2026", "session": "Morning", "duration": "1h 10m" },
+  { "board": "OCR", "subject": "Combined Science A", "paper_code": "J250/11", "paper_title": "Combined Science A: Paper 11 (Physics) (Higher)", "date": "Tuesday 02 June 2026", "session": "Morning", "duration": "1h 10m" },
+  { "board": "OCR", "subject": "Combined Science B", "paper_code": "J260/03", "paper_title": "Combined Science B: Physics (Foundation)", "date": "Tuesday 02 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Combined Science B", "paper_code": "J260/07", "paper_title": "Combined Science B: Physics (Higher)", "date": "Tuesday 02 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Physics A", "paper_code": "J249/01", "paper_title": "Physics A: Paper 1 (Foundation tier)", "date": "Tuesday 02 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Physics A", "paper_code": "J249/03", "paper_title": "Physics A: Paper 3 (Higher tier)", "date": "Tuesday 02 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Physics B", "paper_code": "J259/01", "paper_title": "Physics B: Breadth in physics (Foundation)", "date": "Tuesday 02 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Physics B", "paper_code": "J259/03", "paper_title": "Physics B: Breadth in physics (Higher)", "date": "Tuesday 02 June 2026", "session": "Morning", "duration": "1h 45m" },
+
+  { "board": "OCR", "subject": "Latin", "paper_code": "J282/04", "paper_title": "Latin: Verse literature A", "date": "Tuesday 02 June 2026", "session": "Afternoon", "duration": "1h" },
+  { "board": "OCR", "subject": "Latin", "paper_code": "J282/05", "paper_title": "Latin: Verse literature B", "date": "Tuesday 02 June 2026", "session": "Afternoon", "duration": "1h" },
+  { "board": "OCR", "subject": "Media Studies", "paper_code": "J200/02", "paper_title": "Media Studies: Music and news", "date": "Tuesday 02 June 2026", "session": "Afternoon", "duration": "1h 15m" },
+
+  { "board": "OCR", "subject": "Mathematics", "paper_code": "J560/02", "paper_title": "Mathematics: Paper 2 (Foundation – non-calculator)", "date": "Wednesday 03 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Mathematics", "paper_code": "J560/05", "paper_title": "Mathematics: Paper 5 (Higher – non-calculator)", "date": "Wednesday 03 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Geography A (Geographical Themes)", "paper_code": "J383/02", "paper_title": "Geography A: The world around us", "date": "Wednesday 03 June 2026", "session": "Afternoon", "duration": "1h" },
+  { "board": "OCR", "subject": "Geography B (Geography for Enquiring Minds)", "paper_code": "J384/02", "paper_title": "Geography B: People and society", "date": "Wednesday 03 June 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Health and Social Care (Cambridge National)", "paper_code": "R032", "paper_title": "Health and Social Care: Principles of care in health and social care settings", "date": "Wednesday 03 June 2026", "session": "Afternoon", "duration": "1h 15m" },
+
+  { "board": "OCR", "subject": "History A (Explaining the Modern World)", "paper_code": "J410/08-10", "paper_title": "History A: Thematic study", "date": "Thursday 04 June 2026", "session": "Morning", "duration": "1h" },
+  { "board": "OCR", "subject": "History B (Schools History Project)", "paper_code": "J411/11-19", "paper_title": "History B: British history – thematic study and depth study", "date": "Thursday 04 June 2026", "session": "Morning", "duration": "1h 45m" },
+
+  { "board": "OCR", "subject": "English Language", "paper_code": "J351/02", "paper_title": "English Language: Exploring effects and impact", "date": "Friday 05 June 2026", "session": "Morning", "duration": "2h" },
+  { "board": "OCR", "subject": "Music", "paper_code": "J536/05", "paper_title": "Music: Listening and appraising", "date": "Friday 05 June 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "OCR", "subject": "Biology A", "paper_code": "J247/02", "paper_title": "Biology A: Paper 2 (Foundation tier)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Biology A", "paper_code": "J247/04", "paper_title": "Biology A: Paper 4 (Higher tier)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Biology B", "paper_code": "J257/02", "paper_title": "Biology B: Depth in biology (Foundation)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Biology B", "paper_code": "J257/04", "paper_title": "Biology B: Depth in biology (Higher)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Combined Science A", "paper_code": "J250/02", "paper_title": "Combined Science A: Paper 2 (Biology) (Foundation)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 10m" },
+  { "board": "OCR", "subject": "Combined Science A", "paper_code": "J250/08", "paper_title": "Combined Science A: Paper 8 (Biology) (Higher)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 10m" },
+  { "board": "OCR", "subject": "Combined Science B", "paper_code": "J260/04", "paper_title": "Combined Science B: Combined science (Foundation)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Combined Science B", "paper_code": "J260/08", "paper_title": "Combined Science B: Combined science (Higher)", "date": "Monday 08 June 2026", "session": "Morning", "duration": "1h 45m" },
+
+  { "board": "OCR", "subject": "Classical Greek", "paper_code": "J292/06", "paper_title": "Classical Greek: Literature and culture", "date": "Monday 08 June 2026", "session": "Afternoon", "duration": "1h" },
+  { "board": "OCR", "subject": "Creative iMedia (Cambridge National)", "paper_code": "R093", "paper_title": "Creative iMedia: Creative iMedia in the media industry", "date": "Monday 08 June 2026", "session": "Afternoon", "duration": "1h 30m" },
+
+  { "board": "OCR", "subject": "History A (Explaining the Modern World)", "paper_code": "J410/11-13", "paper_title": "History A: British depth study with a study of the historic environment", "date": "Tuesday 09 June 2026", "session": "Afternoon", "duration": "1h 15m" },
+  { "board": "OCR", "subject": "History B (Schools History Project)", "paper_code": "J411/31-39", "paper_title": "History B: World history – period study and depth study", "date": "Tuesday 09 June 2026", "session": "Afternoon", "duration": "1h 45m" },
+
+  { "board": "OCR", "subject": "Mathematics", "paper_code": "J560/03", "paper_title": "Mathematics: Paper 3 (Foundation – calculator)", "date": "Wednesday 10 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Mathematics", "paper_code": "J560/06", "paper_title": "Mathematics: Paper 6 (Higher – calculator)", "date": "Wednesday 10 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Design and Technology", "paper_code": "J310/01", "paper_title": "Design and Technology: Principles of design and technology", "date": "Wednesday 10 June 2026", "session": "Afternoon", "duration": "2h" },
+
+  { "board": "OCR", "subject": "Geography A (Geographical Themes)", "paper_code": "J383/03", "paper_title": "Geography A: Geographical skills", "date": "Thursday 11 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Geography B (Geography for Enquiring Minds)", "paper_code": "J384/03", "paper_title": "Geography B: Geographical exploration", "date": "Thursday 11 June 2026", "session": "Morning", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Engineering Programmable Systems (Cambridge National)", "paper_code": "R047", "paper_title": "Engineering Programmable Systems: Principles of electronic and programmable systems", "date": "Thursday 11 June 2026", "session": "Afternoon", "duration": "1h 15m" },
+  { "board": "OCR", "subject": "Food Preparation and Nutrition", "paper_code": "J309/01", "paper_title": "Food Preparation and Nutrition: Food preparation and nutrition", "date": "Thursday 11 June 2026", "session": "Afternoon", "duration": "1h 30m" },
+  { "board": "OCR", "subject": "Latin", "paper_code": "J282/06", "paper_title": "Latin: Literature and culture", "date": "Thursday 11 June 2026", "session": "Afternoon", "duration": "1h" },
+
+  { "board": "OCR", "subject": "Chemistry A", "paper_code": "J248/02", "paper_title": "Chemistry A: Paper 2 (Foundation tier)", "date": "Friday 12 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Chemistry A", "paper_code": "J248/04", "paper_title": "Chemistry A: Paper 4 (Higher tier)", "date": "Friday 12 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Chemistry B", "paper_code": "J258/02", "paper_title": "Chemistry B: Depth in chemistry (Foundation)", "date": "Friday 12 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Chemistry B", "paper_code": "J258/04", "paper_title": "Chemistry B: Depth in chemistry (Higher)", "date": "Friday 12 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Combined Science A", "paper_code": "J250/04", "paper_title": "Combined Science A: Paper 4 (Chemistry) (Foundation)", "date": "Friday 12 June 2026", "session": "Morning", "duration": "1h 10m" },
+  { "board": "OCR", "subject": "Combined Science A", "paper_code": "J250/10", "paper_title": "Combined Science A: Paper 10 (Chemistry) (Higher)", "date": "Friday 12 June 2026", "session": "Morning", "duration": "1h 10m" },
+
+  { "board": "OCR", "subject": "Combined Science A", "paper_code": "J250/06", "paper_title": "Combined Science A: Paper 6 (Physics) (Foundation)", "date": "Monday 15 June 2026", "session": "Morning", "duration": "1h 10m" },
+  { "board": "OCR", "subject": "Combined Science A", "paper_code": "J250/12", "paper_title": "Combined Science A: Paper 12 (Physics) (Higher)", "date": "Monday 15 June 2026", "session": "Morning", "duration": "1h 10m" },
+  { "board": "OCR", "subject": "Physics A", "paper_code": "J249/02", "paper_title": "Physics A: Paper 2 (Foundation tier)", "date": "Monday 15 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Physics A", "paper_code": "J249/04", "paper_title": "Physics A: Paper 4 (Higher tier)", "date": "Monday 15 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Physics B", "paper_code": "J259/02", "paper_title": "Physics B: Depth in physics (Foundation)", "date": "Monday 15 June 2026", "session": "Morning", "duration": "1h 45m" },
+  { "board": "OCR", "subject": "Physics B", "paper_code": "J259/04", "paper_title": "Physics B: Depth in physics (Higher)", "date": "Monday 15 June 2026", "session": "Morning", "duration": "1h 45m" },
+
+  { "board": "OCR", "subject": "Spanish", "paper_code": "1SP1 (not OCR – ignore)", "paper_title": "N/A", "date": "N/A", "session": "N/A", "duration": "N/A" }
+]
