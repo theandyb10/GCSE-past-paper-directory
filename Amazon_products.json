@@ -264,5 +264,26 @@
         "image_url": "https://m.media-amazon.com/images/I/61FaMCrk6xL._SL1415_.jpg",
         "subject": "Chemistry",
         "exam_board": "OCR"
-    }
+    },
+    {
+        "title": "GCSE Revision Diary Planner: A study guide to help you master your exam preparation and anxiety - with 4 months of weekly and daily timetables to create",
+        "affiliate_url": "https://www.amazon.co.uk/dp/B0CXF5VVRX?maas=maas_adg_8717F6F519DA94AE63C61BFCEE240724_afap_abs&ref_=aa_maas&tag=maas",
+        "image_url": "https://m.media-amazon.com/images/I/61vfcse3kQL._SL1413_.jpg",
+        "subject": "Other",
+        "exam_board": "Other"
+    },
+    {
+        "title": "GCSE English, Maths (Foundation) & Science Revision Guide Pack | 2025/26 GCSE Specification | FREE digital editions with over 2,000 assessment questions!",
+        "affiliate_url": "https://amzn.to/4b7QSUH",
+        "image_url": "https://m.media-amazon.com/images/I/71gE+NShAUL._SL1500_.jpg",
+        "subject": "Other",
+        "exam_board": "Other"
+    },
+    {
+        "title": "GCSE Maths In Four Weeks Revision Guide - Grades 9-1",
+        "affiliate_url": "https://amzn.to/3ZUd0vu",
+        "image_url": "https://m.media-amazon.com/images/I/611YliPzlPL._SL1410_.jpg",
+        "subject": "Other",
+        "exam_board": "Other"
+        }
 ]
